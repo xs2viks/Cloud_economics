@@ -1,0 +1,38 @@
+Dev weekday vs weekend spend,,,,,,Tag Status,(All)
+Tag Status,(All),,,,,,
+Alloc_Environment,dev,,,,,Row Labels,Sum of EffectiveCost
+,,,,,,dev,1395.28897
+WeekDay/Weekend,Sum of EffectiveCost,,,,,prod,311.0110534
+Weekday,1119.231805,,,,,trey,5.73910282
+Weekend,276.0571651,,,,,Unallocated,-797.439171
+Grand Total,1395.28897,,,,,Grand Total,914.5999551
+,,,,,,,
+Dev hourly spend ,,,,,,,
+Alloc_Environment,dev,,,,,,
+,,,,,10pm-4 am ,,
+Row Labels,Sum of EffectiveCost,,,,Hours ,Effective Cost,
+00,77.28896989,,,,00,77.28896989,
+01,74,,,,01,74,
+02,56,,,,02,56,
+03,52,,,,03,52,
+04,48,,,,04,48,
+05,48,,,,20,87,
+06,60,,,,21,66,
+07,30,,,,22,64,
+08,31,,,,23,81,
+09,33,,,,,605.2889699,
+10,34,,,,,,
+11,38,,,,,,
+12,24,,,,,,
+13,35,,,,,,
+14,42,,,,,,
+15,53,,,,,,
+16,103,,,,,,
+17,83,,,,,,
+18,66,,,,,,
+19,110,,,,,,
+20,87,,,,,,
+21,66,,,,,,
+22,64,,,,,,
+23,81,,,,,,
+Grand Total,1395.28897,,,,,,

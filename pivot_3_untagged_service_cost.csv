@@ -1,0 +1,66 @@
+ServiceName,EffectiveCost
+Virtual Machines,123.7896903175
+Azure SQL Database,119.133451612
+SQL Database,70.15275
+Datadog,40.32
+Azure Load Testing,10.0
+AWS Config,6.0
+Azure Machine Learning,3.9372655774
+Amazon Elastic Container Service for Kubernetes,3.0
+AmazonCloudWatch,2.0
+Storage Accounts,1.4447365316
+Virtual Network,1.0304
+Microsoft Defender for Cloud,0.64614
+Microsoft.Fabric,0.078403646
+Service Bus,2.05e-06
+AmazonWorkMail,0.0
+Amazon Route 53,0.0
+Amazon Simple Email Service,0.0
+Amazon Simple Notification Service,0.0
+Amazon Simple Queue Service,0.0
+Amazon Simple Storage Service,0.0
+Amazon WorkDocs,0.0
+Savings Plans for AWS Compute usage,0.0
+Artifact Registry,0.0
+Elastic Load Balancing,0.0
+Azure App Service,0.0
+SQL Managed Instance,0.0
+Networking,0.0
+Azure Monitor,0.0
+AWS Backup,0.0
+Azure Savings Plan for Compute,0.0
+CloudWatch Events,0.0
+Amazon Redshift,0.0
+AWS App Runner,0.0
+Amazon OpenSearch Service,0.0
+Amazon DevOps Guru,0.0
+AWS CloudFormation,0.0
+AWS CloudTrail,0.0
+AWS Data Transfer,0.0
+AWS Glue,0.0
+AWS Key Management Service,0.0
+AWS Secrets Manager,0.0
+AWS Security Hub,0.0
+AWS Step Functions,0.0
+AWS Systems Manager,0.0
+AWS WAF,0.0
+AWS X-Ray,0.0
+Amazon API Gateway,0.0
+Amazon QuickSight,0.0
+Amazon DocumentDB (with MongoDB compatibility),0.0
+Amazon Elastic Container Registry Public,0.0
+Amazon Location Service,0.0
+Amazon Lightsail,0.0
+Amazon GuardDuty,0.0
+Amazon Glacier,0.0
+Amazon Elastic Container Service,0.0
+Amazon ElastiCache,0.0
+Amazon EC2 Container Registry (ECR),0.0
+Amazon DynamoDB,0.0
+Key Vault,-0.00012200000000000001
+Amazon Virtual Private Cloud,-2.0
+AWS Lambda,-2.0
+Amazon Elastic File System,-6.0
+Amazon Relational Database Service,-8.0
+Amazon CloudFront,-9.0
+Amazon Elastic Compute Cloud,-1155.0

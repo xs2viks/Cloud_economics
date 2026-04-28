@@ -1,0 +1,18 @@
+﻿"Details for Sum of EffectiveCost - ServiceName: Azure SQL Database, Tag Status: Untagged",,,,,,
+,,,,,,
+BillingPeriodStart,ConsumedQuantity,ConsumedUnit,EffectiveCost,RegionName,ServiceName,SubAccountName
+01-09-2024,10.48387097,GB/Month,1.205645161,West US 2,Azure SQL Database,Horizon Eclipse
+01-09-2024,84,Hours,31.5,West US 2,Azure SQL Database,Horizon Eclipse
+01-09-2024,8,Hours,3,West US 2,Azure SQL Database,Horizon Eclipse
+01-09-2024,2.25,Hours,0,West US 2,Azure SQL Database,Horizon Eclipse
+01-09-2024,10.48387097,GB/Month,1.205645161,West US 2,Azure SQL Database,Horizon Eclipse
+01-09-2024,28,Hours,4.256,West US 2,Azure SQL Database,Horizon Eclipse
+01-09-2024,1,Hours,0,West US 2,Azure SQL Database,Horizon Eclipse
+01-09-2024,88,Hours,33,West US 2,Azure SQL Database,Horizon Eclipse
+01-09-2024,20,Hours,7.5,West US 2,Azure SQL Database,Horizon Eclipse
+01-09-2024,48,Hours,7.296,West US 2,Azure SQL Database,Horizon Eclipse
+01-09-2024,4,Hours,0,West US 2,Azure SQL Database,Horizon Eclipse
+01-09-2024,1.290322581,GB/Month,0.129032258,West US 2,Azure SQL Database,Horizon Eclipse
+01-09-2024,1.341935484,GB/Month,0.335483871,West US 2,Azure SQL Database,Horizon Eclipse
+01-09-2024,10.48387097,GB/Month,1.205645161,West US 2,Azure SQL Database,Horizon Eclipse
+01-09-2024,76,Hours,28.5,West US 2,Azure SQL Database,Horizon Eclipse

@@ -1,0 +1,80 @@
+﻿"Details for Sum of EffectiveCost - ServiceName: Virtual Machines, Tag Status: Untagged",,,,,,
+,,,,,,
+BillingPeriodStart,ConsumedQuantity,ConsumedUnit,EffectiveCost,RegionName,ServiceName,SubAccountName
+01-09-2024,24,Hours,36,West US 2,Virtual Machines,Horizon Eclipse
+01-09-2024,24,Hours,9.6,West US 2,Virtual Machines,Horizon Eclipse
+01-09-2024,24,Hours,9.6,West US 2,Virtual Machines,Horizon Eclipse
+01-09-2024,24,Hours,9.6,West US 2,Virtual Machines,Horizon Eclipse
+01-09-2024,24,Hours,7.176,West US 2,Virtual Machines,Horizon Eclipse
+01-09-2024,24,Hours,7.176,West US 2,Virtual Machines,Horizon Eclipse
+01-09-2024,0.033336,Units/Month,4.09632768,West US 2,Virtual Machines,Horizon Eclipse
+01-09-2024,0.033336,Units/Month,4.09632768,West US 2,Virtual Machines,Horizon Eclipse
+01-09-2024,0.033336,Units/Month,4.09632768,West US 2,Virtual Machines,Horizon Eclipse
+01-09-2024,0.022224,Units/Month,2.73088512,West US 2,Virtual Machines,Horizon Eclipse
+01-09-2024,0.033336,Units/Month,0.59738112,West US 2,Virtual Machines,Horizon Eclipse
+01-09-2024,24,Units/Hour,0.48,West US 2,Virtual Machines,Horizon Eclipse
+01-09-2024,19,Units/Hour,0.38,West US 2,Virtual Machines,Horizon Eclipse
+01-09-2024,18,Units/Hour,0.36,West US 2,Virtual Machines,Horizon Eclipse
+01-09-2024,0.009911778,GB,0.000495589,West US 2,Virtual Machines,Horizon Eclipse
+01-09-2024,0.009797001,GB,0.00048985,West US 2,Virtual Machines,Horizon Eclipse
+01-09-2024,0.0019351,GB,0.0000387,West US 2,Virtual Machines,Horizon Eclipse
+01-09-2024,0.001773761,GB,0.0000355,West US 2,Virtual Machines,Horizon Eclipse
+01-09-2024,0.0000281,GB,0.00000244,West US 2,Virtual Machines,Horizon Eclipse
+01-09-2024,17.625,Hours,6.027493169,West US,Virtual Machines,Horizon Eclipse
+01-09-2024,24,Hours,2.3808,West US,Virtual Machines,Apollo Orion
+01-09-2024,24,Units/Hour,0.48,West US,Virtual Machines,Horizon Eclipse
+01-09-2024,24,Units/Hour,0.48,West US,Virtual Machines,Horizon Eclipse
+01-09-2024,12,Units/Hour,0.24,West US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.033336,Units/Month,0.17568072,West US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.033336,Units/Month,0.17568072,West US,Virtual Machines,Horizon Eclipse
+01-09-2024,2,Units/Hour,0.04,West US,Virtual Machines,Apollo Orion
+01-09-2024,0.033336,Units/Month,2.95323624,UK West,Virtual Machines,Orion Pioneer
+01-09-2024,0.033336,Units/Month,2.95323624,UK West,Virtual Machines,Orion Pioneer
+01-09-2024,0.033336,Units/Month,2.95323624,UK West,Virtual Machines,Orion Pioneer
+01-09-2024,0.033336,Units/Month,0.79473024,UK West,Virtual Machines,Orion Pioneer
+01-09-2024,0.033336,Units/Month,0.79473024,UK West,Virtual Machines,Orion Pioneer
+01-09-2024,-0.033336,Units/Month,-0.79473024,UK West,Virtual Machines,Orion Pioneer
+01-09-2024,-0.033336,Units/Month,-2.95323624,UK West,Virtual Machines,Orion Pioneer
+01-09-2024,-0.033336,Units/Month,-2.95323624,UK West,Virtual Machines,Orion Pioneer
+01-09-2024,-0.033336,Units/Month,-2.95323624,UK West,Virtual Machines,Orion Pioneer
+01-09-2024,20,Hours,1.17124,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,24,Units/Hour,0.48,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,24,Units/Hour,0.48,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,24,Units/Hour,0.48,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,24,Units/Hour,0.48,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,6,Hours,0.416436,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,7,Hours,0.409934,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,4,Hours,0.277624,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,4,Hours,0.234248,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.033336,Units/Month,0.1600128,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,2,Hours,0.138812,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,6,Units/Hour,0.12,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,6,Units/Hour,0.12,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.983353,Hours,0.057587118,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.018677765,GB,0.001624966,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.014471467,GB,0.001259018,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.012980161,GB,0.001129274,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.012739645,GB,0.001108349,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.012604667,GB,0.001096606,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.011779122,GB,0.001024784,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.008738132,GB,0.000760218,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.008233421,GB,0.000716308,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.001683065,GB,0.0000337,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.001684204,GB,0.0000337,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.001642864,GB,0.0000329,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.001634154,GB,0.0000327,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.001622639,GB,0.0000325,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.001614356,GB,0.0000323,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.001611164,GB,0.0000322,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.001580515,GB,0.0000316,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.000136493,GB,0.00000682,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.000064,GB,0.0000032,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.0000193,GB,0.000000966,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.000000216,GB,1.08E-08,South Central US,Virtual Machines,Horizon Eclipse
+01-09-2024,0.033336,Units/Month,0.65705256,Central US,Virtual Machines,Orion Pioneer
+01-09-2024,0.033336,Units/Month,0.65705256,Central US,Virtual Machines,Orion Pioneer
+01-09-2024,0.033336,Units/Month,0.65705256,Central US,Virtual Machines,Orion Pioneer
+01-09-2024,-0.033336,Units/Month,-0.65705256,Central US,Virtual Machines,Orion Pioneer
+01-09-2024,24,Hours,10.656,Canada Central,Virtual Machines,Nimbus Zenith
+01-09-2024,0.000033,GB,0.00000287,Canada Central,Virtual Machines,Nimbus Zenith
+01-09-2024,0.0000119,GB,0.000000238,Canada Central,Virtual Machines,Nimbus Zenith

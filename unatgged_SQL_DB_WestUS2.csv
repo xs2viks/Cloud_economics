@@ -1,0 +1,7 @@
+﻿"Details for Sum of EffectiveCost - ServiceName: SQL Database, Tag Status: Untagged",,,,,,,
+,,,,,,,
+BillingPeriodStart,ConsumedQuantity,ConsumedUnit,EffectiveCost,RegionName,ServiceName,SubAccountName,Tags
+01-09-2024,72,Hours,27,West US 2,SQL Database,Horizon Eclipse,"{""CostCenter"": ""SubACM""}"
+01-09-2024,22.5,Hours,8.4375,West US 2,SQL Database,Horizon Eclipse,"{""CostCenter"": ""SubACM""}"
+01-09-2024,96,Hours,29.184,West US 2,SQL Database,Horizon Eclipse,"{""CostCenter"": ""SubACM""}"
+01-09-2024,14.75,Hours,5.53125,West US 2,SQL Database,Horizon Eclipse,"{""CostCenter"": ""SubACM""}"

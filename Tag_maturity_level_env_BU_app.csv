@@ -1,0 +1,23 @@
+﻿Tag Maturity Application,
+,
+Tag Status ,Count of Alloc_Application
+Partially Tagged,3887
+Tagged,63767
+Untagged,32346
+Grand Total,100000
+,
+Tag Maturity Enviornment,
+,
+Row Labels,Count of Alloc_Environment
+Partially Tagged,3887
+Tagged,63767
+Untagged,32346
+Grand Total,100000
+,
+Tag Maturity Business Unit,
+,
+Row Labels,Count of Alloc_BusinessUnit
+Partially Tagged,3887
+Tagged,63767
+Untagged,32346
+Grand Total,100000
